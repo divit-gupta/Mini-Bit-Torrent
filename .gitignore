@@ -1,0 +1,7 @@
+Notes/
+.DS_Store
+.vscode/
+Tracker/*.o
+Tracker/tracker
+Client/*.o
+Client/Client
